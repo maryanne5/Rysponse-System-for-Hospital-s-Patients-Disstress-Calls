@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>blurred-abstract-background.png</file>
+  </qresource>
+</RCC>
